@@ -23,7 +23,7 @@ Para rodar o projeto, siga estes passos:
 
 Clone o repositório:
   ``` bash
-   git clone <url-do-repositório>
+   git clone https://github.com/jessikasousa/todo-api.git
   ```
 
 Navegue até o diretório do projeto:
